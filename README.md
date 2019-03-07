@@ -12,7 +12,7 @@ Try the game and read more about it at https://blog.roysolberg.com/2019/03/devto
 The code for the game itself is licenced under the MIT License.
 
 #### Sound licenses
-**[Attribution 3.0 Unported (CC BY 3.0)] (https://creativecommons.org/licenses/by/3.0/legalcode):**  
+**[Attribution 3.0 Unported (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/legalcode):**  
 - The player shot is a trimmed version of [gunn76's "600 Nitro Express Sound"](http://soundbible.com/1593-600-Nitro-Express.html).
 - The explosion is a trimmed version of [Sound Explorer's "Bomb Exploding Sound"](http://soundbible.com/1986-Bomb-Exploding.html).
 - The sound when aliens appear is a trimmed version of [Mike Koenig's "Time Travel Clip Sound"](http://soundbible.com/109-Time-Travel-Clip.html).
